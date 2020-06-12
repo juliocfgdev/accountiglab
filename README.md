@@ -1,6 +1,6 @@
 # accountiglab
-Projeto de treino
-Skills Utilizadas
+Projeto de treino.
+Skills Utilizadas:
 HTML5
 CSS3
 Flexbox
