@@ -1,4 +1,4 @@
-# accountiglab
+# accountinglab
 Projeto de treino.
 Skills Utilizadas:
 HTML5
