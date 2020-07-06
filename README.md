@@ -1,12 +1,12 @@
 # accountinglab
-
-Live Version: https://juliocfgdev.github.io/accountinglab/
-
-Projeto de treino.
-Skills Utilizadas:
-HTML5
-CSS3
-Flexbox
-Design Responsivo (Media Queries)
-JQuery
-Google Maps API
+## Descrição 
+Projeto para treino de layouts responsivos utilizando Flexbox
+### Tecnologias Usadas:
+* HTML5
+* CSS3
+  * Media Queries
+  * Flexbox
+* Vannila JS
+* JQuery
+* Google Maps API
+#### Versão Live: https://juliocfgdev.github.io/accountinglab/
